@@ -1,19 +1,4 @@
-# comment-demo
+## 360 笔试反馈代码
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 具体页面的 views 文件夹里
+- 才用的是 Vue 框架 + 本地缓存 api
